@@ -1,4 +1,4 @@
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,208 | 🐛 75 | 📅 2026-03-09 with stars
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,522 | 🐛 75 | 📅 2026-03-09 with stars
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,944 | 🐛 4 | 🌐 C++ | 📅 2026-03-10 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,945 | 🐛 4 | 🌐 C++ | 📅 2026-03-11 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,809 | 🐛 234 | 🌐 HTML | 📅 2026-03-04 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -257,12 +257,12 @@ Processing Unit (GPU).
 
 ## Libraries
 
-> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries) ⭐ 1,480 | 🐛 4 | 📅 2025-02-15
+> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries) ⭐ 1,479 | 🐛 4 | 📅 2025-02-15
 
 ### 2D
 
 * [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,223 | 🐛 32 | 🌐 TypeScript | 📅 2026-02-10 - 2D physics engine for cross-platform HTML5 game development.
-* [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,692 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
+* [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,691 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
 * [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,547 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-08 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
@@ -275,7 +275,7 @@ Processing Unit (GPU).
 
 #### Particles
 
-* [Phenomenon](https://github.com/vaneenige/phenomenon) ⭐ 1,825 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-10 - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
+* [Phenomenon](https://github.com/vaneenige/phenomenon) ⭐ 1,824 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-10 - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ### Maps and Visualizations
 
@@ -356,8 +356,8 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 444,208 | 🐛 75 | 📅 2026-03-09 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,262 | 🐛 2 | 🌐 Markdown | 📅 2026-02-25 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 444,522 | 🐛 75 | 📅 2026-03-09 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,269 | 🐛 2 | 🌐 Markdown | 📅 2026-02-25 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,672 | 🐛 296 | 🌐 HTML | 📅 2026-02-03 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,658 | 🐛 4 | 📅 2024-06-21 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,385 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
@@ -365,7 +365,7 @@ Processing Unit (GPU).
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) ⭐ 1,480 | 🐛 4 | 📅 2025-02-15 for details.
+Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) ⭐ 1,479 | 🐛 4 | 📅 2025-02-15 for details.
 
 ## Testing
 
