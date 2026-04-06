@@ -1,4 +1,4 @@
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 451,970 | 🐛 59 | 📅 2026-04-02 with stars
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 452,326 | 🐛 60 | 📅 2026-04-02 with stars
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -95,7 +95,7 @@ Processing Unit (GPU).
 
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,278 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,279 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,965 | 🐛 7 | 🌐 C++ | 📅 2026-04-05 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,966 | 🐛 7 | 🌐 C++ | 📅 2026-04-06 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,814 | 🐛 234 | 🌐 HTML | 📅 2026-03-11 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -264,7 +264,7 @@ Processing Unit (GPU).
 
 * [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,235 | 🐛 32 | 🌐 TypeScript | 📅 2026-02-10 - 2D physics engine for cross-platform HTML5 game development.
 * [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,693 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
-* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,548 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-08 - 2D Library for cross-platform HTML5 game development.
+* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,549 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-08 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
@@ -300,7 +300,7 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,498 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,500 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -358,12 +358,12 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 451,970 | 🐛 59 | 📅 2026-04-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,397 | 🐛 3 | 🌐 Markdown | 📅 2026-03-30 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 452,326 | 🐛 60 | 📅 2026-04-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,401 | 🐛 4 | 🌐 Markdown | 📅 2026-03-30 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,696 | 🐛 296 | 🌐 HTML | 📅 2026-03-30 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,665 | 🐛 4 | 📅 2024-06-21 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,391 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,845 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,846 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing
 
@@ -371,7 +371,7 @@ Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/
 
 ## Testing
 
-Travis CI testing automation thanks to [awesome\_bot](https://github.com/dkhamsing/awesome_bot) ⭐ 886 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20!
+Travis CI testing automation thanks to [awesome\_bot](https://github.com/dkhamsing/awesome_bot) ⭐ 887 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20!
 
 ## License
 
