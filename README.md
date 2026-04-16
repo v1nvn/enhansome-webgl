@@ -1,4 +1,4 @@
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 455,372 | 🐛 62 | 📅 2026-04-02 with stars
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 455,763 | 🐛 63 | 📅 2026-04-02 with stars
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -58,7 +58,7 @@ Processing Unit (GPU).
 * [Real-Time Rendering](http://www.realtimerendering.com/blog/tag/webgl/) - This is the blog for the book *Real-Time Rendering*.
 * [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
 * [WebGL Insights](http://webglinsights.blogspot.com/) - This is the blog for the book *WebGL Insights*.
-* [WebGL Month](https://github.com/lesnitsky/webgl-month) ⭐ 225 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-28 – Daily WebGL tutorial for a month.
+* [WebGL Month](https://github.com/lesnitsky/webgl-month) ⭐ 226 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-28 – Daily WebGL tutorial for a month.
 * [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of *Image Processing* algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
 ### Books
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,970 | 🐛 7 | 🌐 C++ | 📅 2026-04-15 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,972 | 🐛 7 | 🌐 C++ | 📅 2026-04-16 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,815 | 🐛 234 | 🌐 HTML | 📅 2026-04-14 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -264,7 +264,7 @@ Processing Unit (GPU).
 
 * [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,242 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-07 - 2D physics engine for cross-platform HTML5 game development.
 * [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,692 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
-* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,547 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
+* [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,548 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
@@ -358,11 +358,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 455,372 | 🐛 62 | 📅 2026-04-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,468 | 🐛 3 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,700 | 🐛 297 | 🌐 HTML | 📅 2026-04-14 - Runtime 3D Asset Delivery designed for the web.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,667 | 🐛 4 | 📅 2024-06-21 - Curated list of awesome Vulkan projects and ecosystem.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,392 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 455,763 | 🐛 63 | 📅 2026-04-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,476 | 🐛 3 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,699 | 🐛 296 | 🌐 HTML | 📅 2026-04-15 - Runtime 3D Asset Delivery designed for the web.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,666 | 🐛 4 | 📅 2024-06-21 - Curated list of awesome Vulkan projects and ecosystem.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,393 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,847 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing
