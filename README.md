@@ -1,4 +1,4 @@
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,445 | 🐛 70 | 📅 2026-05-05 with stars
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,816 | 🐛 71 | 📅 2026-05-05 with stars
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,989 | 🐛 7 | 🌐 C++ | 📅 2026-05-07 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 3,990 | 🐛 7 | 🌐 C++ | 📅 2026-05-08 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,816 | 🐛 234 | 🌐 HTML | 📅 2026-04-29 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -358,8 +358,8 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,445 | 🐛 70 | 📅 2026-05-05 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,602 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,816 | 🐛 71 | 📅 2026-05-05 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,612 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,715 | 🐛 303 | 🌐 HTML | 📅 2026-04-27 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,671 | 🐛 4 | 📅 2024-06-21 - Curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,405 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
