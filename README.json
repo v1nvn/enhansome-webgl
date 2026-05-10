@@ -452,7 +452,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 464203
+            "stars": 464638
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2405
+            "stars": 2406
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16616
+            "stars": 16619
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-04-27T15:57:22Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7717
+            "stars": 7719
           }
         },
         {
@@ -517,7 +517,7 @@
             "last_commit": "2020-12-30T21:02:56Z",
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1851
+            "stars": 1852
           }
         }
       ],
@@ -540,7 +540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:26:17.669Z",
+    "last_updated": "2026-05-10T05:41:40.097Z",
     "original_repository": "sjfricke/awesome-webgl",
     "source_repository": "v1nvn/enhansome-webgl",
     "source_repository_description": null,

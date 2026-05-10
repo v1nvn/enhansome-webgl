@@ -1,4 +1,4 @@
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 464,203 | 🐛 71 | 📅 2026-05-05 with stars
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 464,638 | 🐛 73 | 📅 2026-05-05 with stars
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -95,7 +95,7 @@ Processing Unit (GPU).
 
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,279 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/glslify/glslify) ⭐ 2,280 | 🐛 63 | 🌐 JavaScript | 📅 2022-06-29.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
@@ -300,7 +300,7 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,508 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,509 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -358,12 +358,12 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 464,203 | 🐛 71 | 📅 2026-05-05 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,616 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,717 | 🐛 303 | 🌐 HTML | 📅 2026-04-27 - Runtime 3D Asset Delivery designed for the web.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 464,638 | 🐛 73 | 📅 2026-05-05 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,619 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,719 | 🐛 303 | 🌐 HTML | 📅 2026-04-27 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,671 | 🐛 4 | 📅 2024-06-21 - Curated list of awesome Vulkan projects and ecosystem.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,405 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,851 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,406 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,852 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing
 
