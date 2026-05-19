@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-17T03:10:06Z",
+            "last_commit": "2026-05-19T06:05:07Z",
             "owner": "google",
             "repo": "angle",
-            "stars": 3990
+            "stars": 3992
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2022-07-09T03:13:18Z",
             "owner": "schteppe",
             "repo": "p2.js",
-            "stars": 2693
+            "stars": 2694
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-04-07T12:29:53Z",
             "owner": "piqnt",
             "repo": "planck.js",
-            "stars": 5244
+            "stars": 5245
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 467513
+            "stars": 467880
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16666
+            "stars": 16671
           }
         },
         {
@@ -501,10 +501,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-14T14:09:42Z",
+            "last_commit": "2026-05-18T18:27:32Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7717
+            "stars": 7718
           }
         },
         {
@@ -540,7 +540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:19:45.143Z",
+    "last_updated": "2026-05-19T06:13:20.426Z",
     "original_repository": "sjfricke/awesome-webgl",
     "source_repository": "v1nvn/enhansome-webgl",
     "source_repository_description": null,
