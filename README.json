@@ -20,7 +20,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-23T04:46:07Z",
+            "last_commit": "2026-05-24T03:22:05Z",
             "owner": "google",
             "repo": "angle",
             "stars": 3995
@@ -423,7 +423,7 @@
             "last_commit": "2023-05-28T11:56:21Z",
             "owner": "turbulenz",
             "repo": "turbulenz_engine",
-            "stars": 4964
+            "stars": 4965
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 469156
+            "stars": 469488
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16699
+            "stars": 16703
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-05-18T18:27:32Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7725
+            "stars": 7726
           }
         },
         {
@@ -540,7 +540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:43:37.399Z",
+    "last_updated": "2026-05-24T06:06:53.823Z",
     "original_repository": "sjfricke/awesome-webgl",
     "source_repository": "v1nvn/enhansome-webgl",
     "source_repository_description": null,
