@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-24T03:22:05Z",
+            "last_commit": "2026-05-25T03:26:07Z",
             "owner": "google",
             "repo": "angle",
-            "stars": 3995
+            "stars": 3996
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-04-29T20:05:02Z",
             "owner": "KhronosGroup",
             "repo": "WebGL",
-            "stars": 2822
+            "stars": 2824
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2023-05-28T11:56:21Z",
             "owner": "turbulenz",
             "repo": "turbulenz_engine",
-            "stars": 4965
+            "stars": 4966
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 469488
+            "stars": 469811
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-05-11T04:37:02Z",
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3678
+            "stars": 3679
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16703
+            "stars": 16704
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-05-18T18:27:32Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7726
+            "stars": 7728
           }
         },
         {
@@ -540,7 +540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T06:06:53.823Z",
+    "last_updated": "2026-05-25T06:40:46.327Z",
     "original_repository": "sjfricke/awesome-webgl",
     "source_repository": "v1nvn/enhansome-webgl",
     "source_repository_description": null,
