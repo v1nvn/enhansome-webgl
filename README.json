@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-28T04:24:07Z",
+            "last_commit": "2026-05-29T03:05:06Z",
             "owner": "google",
             "repo": "angle",
-            "stars": 4002
+            "stars": 4003
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2021-09-30T16:30:40Z",
             "owner": "3Dparallax",
             "repo": "insight",
-            "stars": 915
+            "stars": 914
           }
         }
       ],
@@ -452,7 +452,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 470669
+            "stars": 470987
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16713
+            "stars": 16722
           }
         },
         {
@@ -501,7 +501,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-28T00:56:40Z",
+            "last_commit": "2026-05-28T20:13:57Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
             "stars": 7731
@@ -540,7 +540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:17:41.370Z",
+    "last_updated": "2026-05-29T06:19:55.381Z",
     "original_repository": "sjfricke/awesome-webgl",
     "source_repository": "v1nvn/enhansome-webgl",
     "source_repository_description": null,
