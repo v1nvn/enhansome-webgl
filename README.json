@@ -20,10 +20,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-29T03:05:06Z",
+            "last_commit": "2026-05-30T03:26:06Z",
             "owner": "google",
             "repo": "angle",
-            "stars": 4003
+            "stars": 4005
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2026-04-07T09:57:40Z",
             "owner": "piqnt",
             "repo": "stage.js",
-            "stars": 2559
+            "stars": 2558
           }
         }
       ],
@@ -423,7 +423,7 @@
             "last_commit": "2023-05-28T11:56:21Z",
             "owner": "turbulenz",
             "repo": "turbulenz_engine",
-            "stars": 4966
+            "stars": 4967
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-05-05T14:47:44Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 470987
+            "stars": 471267
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-05-11T04:37:02Z",
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3678
+            "stars": 3679
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16722
+            "stars": 16728
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-05-28T20:13:57Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
-            "stars": 7731
+            "stars": 7734
           }
         },
         {
@@ -540,7 +540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-29T06:19:55.381Z",
+    "last_updated": "2026-05-30T05:52:43.075Z",
     "original_repository": "sjfricke/awesome-webgl",
     "source_repository": "v1nvn/enhansome-webgl",
     "source_repository_description": null,
