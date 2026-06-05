@@ -1,4 +1,4 @@
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 472,735 | 🐛 82 | 📅 2026-06-02 with stars
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 473,034 | 🐛 83 | 📅 2026-06-02 with stars
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -79,7 +79,7 @@ Processing Unit (GPU).
 > Reporting bugs helps everyone in long run
 
 * [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) - Chrome related bugs
-* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) ⭐ 2,827 | 🐛 235 | 🌐 HTML | 📅 2026-04-29 - Spec or Conformance related bugs
+* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) ⭐ 2,829 | 🐛 235 | 🌐 HTML | 📅 2026-04-29 - Spec or Conformance related bugs
 * [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 * [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com\&attachurl=\&blocked=\&bug_file_loc=http%3A%2F%2F\&bug_severity=Normal\&bug_status=NEW\&comment=\&component=WebGL\&contenttypeentry=\&contenttypemethod=autodetect\&contenttypeselection=text%2Fplain\&data=\&dependson=\&description=\&flag_type-1=X\&flag_type-3=X\&form_name=enter_bug\&keywords=\&maketemplate=Remember%20values%20as%20bookmarkable%20template\&op_sys=Mac%20OS%20X%2010.5\&priority=P2\&product=WebKit\&rep_platform=PC\&short_desc=\&version=528%2B%20%28Nightly%20build%29) - Safari related bugs
 
@@ -105,8 +105,8 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,014 | 🐛 8 | 🌐 C++ | 📅 2026-06-04 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,827 | 🐛 235 | 🌐 HTML | 📅 2026-04-29 - Source code to both view and contribute.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,014 | 🐛 8 | 🌐 C++ | 📅 2026-06-05 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,829 | 🐛 235 | 🌐 HTML | 📅 2026-04-29 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Errata](https://www.khronos.org/webgl/wiki/Errata_to_the_WebGL_Specification) - Known bugs in graphics drivers affect the conformance suite, and consequently, portability of code.
@@ -204,7 +204,7 @@ Processing Unit (GPU).
 ### Tutorials
 
 * [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) ⭐ 578 | 🐛 2 | 🌐 HTML | 📅 2018-11-13 - Rendering algorithms implemented in raw WebGL 2.
-* [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide](https://github.com/GregStanton/webgl2-glsl-primer) ⭐ 66 | 🐛 0 | 📅 2026-06-03 - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
+* [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide](https://github.com/GregStanton/webgl2-glsl-primer) ⭐ 66 | 🐛 0 | 📅 2026-06-04 - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
 
@@ -258,12 +258,12 @@ Processing Unit (GPU).
 
 ## Libraries
 
-> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries) ⭐ 1,504 | 🐛 7 | 📅 2026-04-02
+> [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries) ⭐ 1,505 | 🐛 7 | 📅 2026-04-02
 
 ### 2D
 
-* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,248 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-07 - 2D physics engine for cross-platform HTML5 game development.
-* [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,694 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
+* [Planck.js](https://github.com/shakiba/planck.js) ⭐ 5,247 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-07 - 2D physics engine for cross-platform HTML5 game development.
+* [p2.js](https://github.com/schteppe/p2.js) ⭐ 2,695 | 🐛 106 | 🌐 JavaScript | 📅 2022-07-09 - 2D rigid body physics engine written in JavaScript.
 * [Stage.js](https://github.com/shakiba/stage.js) ⭐ 2,557 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-07 - 2D Library for cross-platform HTML5 game development.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
@@ -276,7 +276,7 @@ Processing Unit (GPU).
 
 #### Particles
 
-* [Phenomenon](https://github.com/vaneenige/phenomenon) ⭐ 1,834 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-10 - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
+* [Phenomenon](https://github.com/vaneenige/phenomenon) ⭐ 1,835 | 🐛 3 | 🌐 TypeScript | 📅 2023-11-10 - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ### Maps and Visualizations
 
@@ -358,16 +358,16 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 472,735 | 🐛 82 | 📅 2026-06-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,765 | 🐛 7 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 473,034 | 🐛 83 | 📅 2026-06-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,770 | 🐛 7 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
 * [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,741 | 🐛 318 | 🌐 HTML | 📅 2026-06-01 - Runtime 3D Asset Delivery designed for the web.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,682 | 🐛 3 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,410 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,684 | 🐛 3 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,411 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) ⭐ 1,504 | 🐛 7 | 📅 2026-04-02 for details.
+Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) ⭐ 1,505 | 🐛 7 | 📅 2026-04-02 for details.
 
 ## Testing
 

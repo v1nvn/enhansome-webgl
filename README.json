@@ -20,7 +20,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-04T02:52:07Z",
+            "last_commit": "2026-06-05T03:10:06Z",
             "owner": "google",
             "repo": "angle",
             "stars": 4014
@@ -61,7 +61,7 @@
             "last_commit": "2026-04-29T20:05:02Z",
             "owner": "KhronosGroup",
             "repo": "WebGL",
-            "stars": 2827
+            "stars": 2829
           }
         },
         {
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-03T16:48:07Z",
+            "last_commit": "2026-06-04T21:10:58Z",
             "owner": "GregStanton",
             "repo": "webgl2-glsl-primer",
             "stars": 66
@@ -184,7 +184,7 @@
             "last_commit": "2022-07-09T03:13:18Z",
             "owner": "schteppe",
             "repo": "p2.js",
-            "stars": 2694
+            "stars": 2695
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-04-07T12:29:53Z",
             "owner": "piqnt",
             "repo": "planck.js",
-            "stars": 5248
+            "stars": 5247
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-06-02T12:50:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 472735
+            "stars": 473034
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2410
+            "stars": 2411
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-05-11T04:37:02Z",
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3682
+            "stars": 3684
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16765
+            "stars": 16770
           }
         },
         {
@@ -540,7 +540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:48:22.449Z",
+    "last_updated": "2026-06-05T06:37:14.462Z",
     "original_repository": "sjfricke/awesome-webgl",
     "source_repository": "v1nvn/enhansome-webgl",
     "source_repository_description": null,
