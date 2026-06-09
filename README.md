@@ -1,4 +1,4 @@
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 473,864 | 🐛 85 | 📅 2026-06-02 with stars
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 474,098 | 🐛 82 | 📅 2026-06-02 with stars
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -105,7 +105,7 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,017 | 🐛 8 | 🌐 C++ | 📅 2026-06-08 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE](https://github.com/google/angle) ⭐ 4,017 | 🐛 8 | 🌐 C++ | 📅 2026-06-09 - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [WebGL Source Code](https://github.com/KhronosGroup/WebGL) ⭐ 2,830 | 🐛 235 | 🌐 HTML | 📅 2026-04-29 - Source code to both view and contribute.
 * [Khronos Official Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/immersive-web/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
@@ -300,7 +300,7 @@ Processing Unit (GPU).
 
 ### Physics
 
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,512 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,513 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ### WebGL 2
@@ -318,7 +318,7 @@ Processing Unit (GPU).
 
 ### Others
 
-* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 4,975 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+* [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 4,976 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) ⭐ 1,569 | 🐛 18 | 🌐 JavaScript | 📅 2022-08-25 - Lightweight and explict library to help prototype.
 * [Pocket.gl](https://github.com/gportelli/pocket.gl) ⭐ 123 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-26 - Fully customizable webgl shader sandbox to embed in your pages.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
@@ -358,11 +358,11 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 473,864 | 🐛 85 | 📅 2026-06-02 - Curated list of awesome lists.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,790 | 🐛 8 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
-* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,745 | 🐛 318 | 🌐 HTML | 📅 2026-06-01 - Runtime 3D Asset Delivery designed for the web.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 474,098 | 🐛 82 | 📅 2026-06-02 - Curated list of awesome lists.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 16,797 | 🐛 8 | 🌐 Markdown | 📅 2026-04-09 - Awesome list about game development.
+* [glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,744 | 🐛 318 | 🌐 HTML | 📅 2026-06-01 - Runtime 3D Asset Delivery designed for the web.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,687 | 🐛 3 | 📅 2026-05-11 - Curated list of awesome Vulkan projects and ecosystem.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,412 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,413 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,852 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.
 
 ## Contributing
@@ -371,7 +371,7 @@ Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/
 
 ## Testing
 
-Travis CI testing automation thanks to [awesome\_bot](https://github.com/dkhamsing/awesome_bot) ⭐ 891 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20!
+Travis CI testing automation thanks to [awesome\_bot](https://github.com/dkhamsing/awesome_bot) ⭐ 892 | 🐛 11 | 🌐 Ruby | 📅 2023-04-20!
 
 ## License
 
